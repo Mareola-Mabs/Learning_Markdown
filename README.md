@@ -27,6 +27,11 @@ ___Both bold and Italics___
 <!-- Crossed off text -->
 ~~This is a crossed off text~~
 
+<!-- Highlight text -->
+==Highlight Text==  
+<mark>Highlight Text</mark>  
+
+
 
 
 
