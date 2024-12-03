@@ -11,6 +11,6 @@ Headings
 #### h4  
 ##### h5  
 ###### h6  
-<h2 style="margin-left:20px;color:red;">This is a Head</h2>
+<h2>This is a Head</h2>
 
 
