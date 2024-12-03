@@ -38,7 +38,16 @@ H~2~0
 X<sup>2<sup>3<sup>4</sup></sup></sup>  
 X<sup>2</sup>  
 H<sub>2</sub>0  
-H<sub>2<sub>0<sub>3<sub>4</sub></sub></sub></sub>
+H<sub>2<sub>0<sub>3<sub>4</sub></sub></sub></sub>  
+
+<!-- Code -->
+`This is a code`
+
+```
+This is a code across multiple lines
+    x = y
+    2x = 4
+```
 
 
 
