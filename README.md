@@ -59,6 +59,9 @@ This is a code across multiple lines
 [https://theequalityadvocates.com.ng](https://theequalityadvocates.com.ng)  
 <https://theequalityadvocates.com.ng>  
 
+<!-- Images -->
+![The Equality advocates Image](https://theequalityadvocates.com.ng/images/IMG_8906.jpg)
+
 
 
 
