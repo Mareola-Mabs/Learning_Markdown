@@ -3,7 +3,11 @@ This moves to a new line with `br` tag
 
 Hello  
 This moves to a new line using double spaces
-
+<style>
+    .heading{
+        color:green;
+    }
+</style>
 Headings
 # h1  
 ## h2  
@@ -12,9 +16,5 @@ Headings
 ##### h5  
 ###### h6  
 <h2 class="heading" style="margin-left:20px;">This is a Head</h2>
-<style>
-    .heading{
-        color:green;
-    }
-</style>
+
 
