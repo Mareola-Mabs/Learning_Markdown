@@ -35,9 +35,10 @@ ___Both bold and Italics___
 X^2^  
 H~2~0
 
+X<sup>2<sup>3<sup>4</sup></sup></sup>  
 X<sup>2</sup>  
 H<sub>2</sub>0  
-H<sub>2<sub>0<sub>3<sub>4</sub>
+H<sub>2<sub>0<sub>3<sub>4</sub></sub></sub></sub>
 
 
 
