@@ -72,6 +72,41 @@ This is a code across multiple lines
 
 >>>Triple Nested
 
+<!-- Horizontal Rule -->
+***
+
+___
+
+---
+
+<hr>
+
+<!-- Lists -->
+1. Item 1  
+2. Item 2
+
+3. Item 3
+
+
+- Item1
+- Item2
+
+- Item3
+
+* Item1
+* Item2
+* Item3
+
++ Item1
++ Item2
++ Item3  
+    + Item5
+
+        + Item6
+            + Item7  
+                1. a list  
+                2. klklkflf  
+                    * fjfkjfjgjg
 
 
 
