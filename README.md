@@ -27,9 +27,16 @@ ___Both bold and Italics___
 <!-- Crossed off text -->
 ~~This is a crossed off text~~
 
-<!-- Highlight text -->
+<!-- Highlight text Flavoured Version and Github Version-->
 ==Highlight Text==  
 <mark>Highlight Text</mark>  
+
+<!-- Super and Subscript Flavoured Version and Github Version-->
+X^2^  
+H~2~0
+
+X<sup>2</sup>  
+H<sub>2</sub>0
 
 
 
