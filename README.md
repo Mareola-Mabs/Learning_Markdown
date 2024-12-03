@@ -43,7 +43,7 @@ H<sub>2<sub>0<sub>3<sub>4</sub></sub></sub></sub>
 <!-- Code -->
 `This is a code`
 
-```
+```js
 This is a code across multiple lines
     x = y
     2x = 4
